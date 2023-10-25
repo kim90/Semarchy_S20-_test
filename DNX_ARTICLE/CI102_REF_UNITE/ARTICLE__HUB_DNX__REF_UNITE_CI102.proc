@@ -7,7 +7,7 @@
   <actionCode id="9476954a-3d2a-456c-a0d4-27d0c70f4449" isBeginAction="false" name="Bean Scripting" nbCycles="-1" toleratedError="false" technology="com.indy.engine.actionCodes.BeanScriptingActionCodeI">
     <link id="d10f4ddd-9c35-402a-a803-dd3dd1d60acb" executionType="OK" generationType="OK_KO" mandatory="1" targetId="49ca585d-27ae-44c5-a049-11adc3499011"/>
     <parameter id="099b01f2-c131-468b-96db-f7960542776a" name="SCRIPTING_LANGUAGE" type="String" value="jython"/>
-    <code>print(&quot;hello word..&quot;)</code>
+    <code>print(&quot;hello word&quot;)</code>
   </actionCode>
   <diagram><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
 <notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:proc="http://www.example.org/proc" xsi:schemaLocation="http://www.eclipse.org/gmf/runtime/1.0.1/notation http://www.eclipse.org/gmf/runtime/1.0.2/notation#/?fileId=084fcc05-3b66-454d-ad24-e2a839ed3141?" xmi:id="_d6YcoHM1Ee67f9s5lmjmhg" type="Proc" measurementUnit="Pixel">
